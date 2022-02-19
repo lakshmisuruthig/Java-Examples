@@ -1,2 +1,2 @@
 # JavaPractiseFiles
-Practised Examples of Java
+This repo contains some Java Example codes.
