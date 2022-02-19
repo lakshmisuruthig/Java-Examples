@@ -1,2 +1,2 @@
 # JavaPractiseFiles
-Peactised Examples of Java
+Practised Examples of Java
